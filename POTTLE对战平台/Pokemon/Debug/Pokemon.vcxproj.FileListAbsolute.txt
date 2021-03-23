@@ -1,0 +1,2 @@
+D:\编程\面向对象编程练习\Pokemon\Debug\Pokemon.exe
+D:\编程\面向对象编程练习\Pokemon\Debug\Pokemon.pdb

@@ -1,0 +1,6 @@
+D:\编程\大作业项目\SOCKET\client\client\Debug\client.exe
+D:\编程\大作业项目\SOCKET\client\client\Debug\client.pdb
+D:\编程\大作业项目\SOCKET\client\Debug\client.exe
+D:\编程\大作业项目\SOCKET\client\Debug\client.pdb
+D:\编程\大作业项目\SOCKET_TCP\client\Debug\client.exe
+D:\编程\大作业项目\SOCKET_TCP\client\Debug\client.pdb
